@@ -6,7 +6,7 @@ load_dotenv()
 API_ID = "10956858"
 API_HASH = "cceefd3382b44d4d85be2d83201102b7"
 BOT_TOKEN = "5472138111:AAH-6tavposQ8F8lLSNg7iq_PY_EchlcFCc"
-DATABASE_URL = "postgresql://postgres:wKtMEkBSvvtDiVm1fIic@containers-us-west-38.railway.app:7992/railway"
+DATABASE_URL = "postgres://lnjrloky:Mpx29iR45y-R8d-R_2SRkAa7VMdSCrEw@rosie.db.elephantsql.com/lnjrloky"
 MUST_JOIN = "DS_Botz"
 
 if not API_ID:
